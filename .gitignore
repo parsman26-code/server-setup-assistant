@@ -1,0 +1,10 @@
+# Local secrets and connection artifacts
+.env
+.env.*
+*.pem
+*.key
+*private-key*
+*subscription*
+*profile*.json
+*qr*.png
+*backup*
